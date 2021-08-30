@@ -1,0 +1,14 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+.customButton{
+  width: 100px;
+  height: 50px;
+  font-size: large;
+  color: black;
+  background-color: chartreuse;
+}
